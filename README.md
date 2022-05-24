@@ -1,3 +1,3 @@
-# TensorflowHub example
+# TensorflowHub examples
 
 
